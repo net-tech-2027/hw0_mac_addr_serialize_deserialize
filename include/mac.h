@@ -4,7 +4,6 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#define SOME_DEF_TO_CHECK_UPD_ERROR
 #ifdef __cplusplus
 extern "C" {
 #endif
